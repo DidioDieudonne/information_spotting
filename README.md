@@ -28,7 +28,7 @@ L'application retourne trois résultats affichés côte à côte :
 ---
 
 
-![Résultats](main/Resultat_F.png "Résultats")
+![Résultats](Resultat_F.png "Résultats")
 
 ## Arborescence du Projet
 
