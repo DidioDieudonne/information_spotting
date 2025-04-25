@@ -53,13 +53,12 @@ git clone https://github.com/ton_utilisateur/information_spotting.git
 cd information_spotting
 pip install -r requirements.txt
 
-
-
 ⸻
 
 Lancer l’application
 
 streamlit run app_information_spotting.py
+![Résultat de l'app](esultat_F.png)
 
 Cela ouvrira l’interface web dans votre navigateur.
 
