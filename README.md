@@ -1,4 +1,4 @@
-Documents# Information Spotting - Recherche de Contenu Visuel dans des Documents
+# Information Spotting - Recherche de Contenu Visuel dans des Documents
 
 Ce projet met en œuvre un système de *spotting d'information* à partir d'une *requête vidéo. Il permet d'identifier automatiquement le **document* le plus similaire et de *localiser visuellement* la *région d'intérêt* présente dans le document, à l'aide de descripteurs SIFT et d'une table de hachage.
 
@@ -63,12 +63,4 @@ streamlit run app_information_spotting.py
 
 Cela ouvrira l’interface web dans votre navigateur.
 
-⸻
 
-Aperçu de l’interface
-
-
-⸻
-
-### Pour l’image result_demo.jpg :
-Tu peux prendre une *capture d’écran* de l’interface Streamlit avec les trois colonnes Query, Document, Region Spotted et la sauvegarder dans le dossier docs/ sous le nom result_demo.jpg.
