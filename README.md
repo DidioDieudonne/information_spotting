@@ -27,6 +27,9 @@ L'application retourne trois résultats affichés côte à côte :
 
 ---
 
+
+![Résultats](main/Resultat_F.png "Résultats")
+
 ## Arborescence du Projet
 
 information_spotting/
@@ -60,7 +63,5 @@ Lancer l’application
 streamlit run app_information_spotting.py
 
 Cela ouvrira l’interface web dans votre navigateur.
-
-![Résultats](main/Resultat_F.png "Résultats")
 
 
