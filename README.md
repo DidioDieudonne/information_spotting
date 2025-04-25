@@ -61,6 +61,6 @@ streamlit run app_information_spotting.py
 
 Cela ouvrira l’interface web dans votre navigateur.
 
-![Résultats](resultat_F.png "Résultats")
+![Résultats](main/Resultat_F.png "Résultats")
 
 
