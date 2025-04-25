@@ -58,8 +58,9 @@ pip install -r requirements.txt
 Lancer l’application
 
 streamlit run app_information_spotting.py
-![Résultat de l'app](esultat_F.png)
 
 Cela ouvrira l’interface web dans votre navigateur.
+
+![Résultats](resultat_F.png "Résultats")
 
 
